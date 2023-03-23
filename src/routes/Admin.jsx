@@ -8,7 +8,7 @@ const Admin = () => {
   const [posts, setPosts] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
 
-  // funçãoque obtém a lista de posts da API
+  // função que obtém a lista de posts da API
   const getPosts = async () => {
     try {
       const response = await blogFetch.get("/posts");

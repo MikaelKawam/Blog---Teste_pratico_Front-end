@@ -43,7 +43,6 @@ const NewPost = () => {
     navigate("/");
   };
   // Hook useEffect que executa a função setPosts
-  //
   useEffect(() => {
     setPosts();
   }, []);
