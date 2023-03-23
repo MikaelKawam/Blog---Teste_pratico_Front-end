@@ -10,7 +10,7 @@
    🚀 Finalizado 🚀 
    <br />
    <br />
-   <a href="https://blog-teste-pratico-front-end.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Clique_aqui_para_acessar_o_site-000000?style=for-the-badge&logoColor=white" target="_blank">
+   <a href="https://blog-teste-pratico-front-end.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Clique_aqui_para_acessar_o_site-000000?style=for-the-badge&logoColor=white" target="_blank"> 
    
 </h4>
 </div>
