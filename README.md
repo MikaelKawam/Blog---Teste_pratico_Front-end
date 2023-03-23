@@ -4,11 +4,16 @@
 <h1 align="center">
     <img alt="Blog" title="#Blog" src="https://cdn-icons-png.flaticon.com/512/10126/10126074.png" width="100" height="100"/>
 </h1>
-
+<div align="center">  
 <h4 align="center"> 
 	 ⚪ Blog ⚪ 
    🚀 Finalizado 🚀 
+   <br />
+   <br />
+   <a href="https://blog-teste-pratico-front-end.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Clique_aqui_para_acessar_o_site-000000?style=for-the-badge&logoColor=white" target="_blank">
+   
 </h4>
+</div>
 
 
 ## 💻 Sobre 💻
