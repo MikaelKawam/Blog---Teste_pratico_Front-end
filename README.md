@@ -25,15 +25,23 @@
 ---
 
 ## ⚙️ Características ⚙️
+<ul>
+<li>Acessar posts</li>
+<li>Acessar comentários</li>
+<li>Acessar usuários</li>
+<li>Criar novo post</li>
+<li>Gerenciar posts editando ou apagando</li>
+<li>Acessar detalhes de um usuário específico</li>
+<li>Acessar comentários dos posts</li>
+</ul>
 
-Acessar posts
-Acessar comentários
-Acessar usuários
-Criar novo post
-Gerenciar posts editando ou apagando
-Acessar detalhes de um usuário específico
 
-Acessar comentários dos posts
+
+
+
+
+
+
 
 
 ---
