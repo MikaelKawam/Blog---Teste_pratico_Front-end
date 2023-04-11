@@ -1,0 +1,13 @@
+.user-details .user{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #777;
+}
+
+.user h2,
+.user p {
+  margin-bottom: 1rem;
+}
