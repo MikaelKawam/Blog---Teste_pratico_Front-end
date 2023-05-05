@@ -14,8 +14,12 @@
    
 </h4>
 </div>
+ <h4 align="center">   <a href="https://drive.google.com/file/d/1kZNfRxRdSF_CAOpVLZ7ruwt-MRrTuxIH/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Clique_aqui_para_acessar_as_informaçoes_do_teste-000000?style=for-the-badge&logoColor=white" target="_blank">
 
 
+
+Realizei esse teste requisitado por uma empresa, porém ela não retornou nenhum tipo de feedback após requisitar o teste.
+</h4>
 ## 💻 Sobre 💻
 
 ⚪ Neste blog, apresento um projeto prático que desenvolvi para o front-end de uma API RESTful. A ideia inicial era criar uma interface que exibisse os posts de um blog, uma lista de usuários com detalhes e, ao clicar em um post, mostrasse os comentários associados. No entanto, como parte de um teste prático para uma vaga de front-end, decidi adicionar algumas funcionalidades extras além das propostas iniciais, como uma ferramenta de busca, gerenciamento de posts e criação de novos posts. Entretanto, a API proposta não salva dados, sendo possível apenas testar requisições.
